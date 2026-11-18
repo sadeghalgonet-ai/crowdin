@@ -15,7 +15,7 @@ on:
       - cron: "*/5 * * * *"
     # - cron: "0 */6 * * *"
 
-  # Allow manual execution
+  # Allow manual execution w
   workflow_dispatch:
 
 permissions:
